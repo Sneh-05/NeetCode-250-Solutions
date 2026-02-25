@@ -22,3 +22,47 @@ These problems are widely recognized as a **gold standard** for interview prep.
 - **Extras:** Explanations, comments, and time/space complexity analysis
 
 ## 📂 Repository Structure
+NeetCode-250/
+│── Arrays/
+│── Strings/
+│── LinkedList/
+│── Trees/
+│── Graphs/
+│── DynamicProgramming/
+│── Backtracking/
+│── Greedy/
+│── Heap-Stack-Queue/
+│── Advanced/
+│── README.md
+
+
+Each folder contains solutions grouped by topic.  
+File names follow the format: `problem-name.ext` (e.g., `two-sum.js`, `longest-substring.py`).
+
+---
+
+## ✅ Features
+- All **250 problems solved**
+- **Optimized solutions** with clear explanations
+- **Time & Space complexity** included
+- Beginner-friendly code style
+- Covers **edge cases** and multiple approaches where applicable
+
+---
+
+## 🚀 How to Use
+1. Clone the repo:
+   ```bash
+   git clone https://github.com/Sneh-05/NeetCode-250.git
+2. Navigate to a topic folder:
+    ```bash
+   cd NeetCode-250/Arrays
+3. Run the solution file in your preferred language.
+
+## 🎯 Goals
+Help learners understand patterns behind problems
+
+Provide a reference repo for interview prep
+
+Encourage clean coding practices
+
